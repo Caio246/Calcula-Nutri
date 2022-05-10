@@ -1,6 +1,6 @@
 # Calcula Nutri
 
-Meu primeiro projeto original, um app mobile criado com raciocício lógico e o App inventor, desenvolvido por mim pois não havia nada parecido no mercado e utilizo até hoje em meus atendimentos, uma caluladora específica para estudantes de nutrição e Nutricionista.
+Meu primeiro projeto original, um app mobile criado com raciocício lógico e o App inventor, desenvolvido por mim pois não havia nada parecido no mercado e utilizo até hoje em meus atendimentos, uma calculadora específica para estudantes de nutrição e Nutricionista.
 
 ## TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
