@@ -8,7 +8,7 @@ Meu primeiro projeto original, um app mobile criado com raciocício lógico e o 
 
 ## PRINTS
 
-![Calcula1](https://user-images.githubusercontent.com/83608987/167692207-2dd93928-2bc5-4f6c-9a2a-779d04e74ba0.jpeg)
-![Calcula2](https://user-images.githubusercontent.com/83608987/167692217-a5d5f6a0-d261-4dcd-a0a4-5c4cfe743b32.jpeg)
-![Calcula3](https://user-images.githubusercontent.com/83608987/167692225-6e541b24-d4a2-4ee4-b6a1-87390951bfbe.jpeg)
-![Calcula4](https://user-images.githubusercontent.com/83608987/167692230-05947fb5-b4cd-4a86-b7ff-0c94308aef5f.jpeg)
+![Calcula1](https://user-images.githubusercontent.com/83608987/167692634-515dc216-9415-4cc3-b736-27dca55bb063.jpeg)
+![Calcula2](https://user-images.githubusercontent.com/83608987/167692650-0794030c-3b97-4c95-8cfd-8789c7d6305e.jpeg)
+![Calcula3](https://user-images.githubusercontent.com/83608987/167692663-1c64d19a-0471-44b8-ad15-94c0480d94a8.jpeg)
+![Calcula4](https://user-images.githubusercontent.com/83608987/167692670-1ea06283-3ff1-4f43-83ae-045f522fcf5b.jpeg)
